@@ -19,6 +19,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/Module2" />
+            <option value="$PROJECT_DIR$/Module2/src" />
+            <option value="$PROJECT_DIR$/Module2/src/main" />
+            <option value="$PROJECT_DIR$/Module2/src/main/GuavaExample" />
           </set>
         </option>
       </GradleProjectSettings>
