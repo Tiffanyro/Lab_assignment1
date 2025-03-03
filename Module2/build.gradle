@@ -22,7 +22,7 @@ dependencies {
 }
 
 test {
-    useJUnitPlatform()
+    useJUnitPlatform() // enable junit 5 platform
 }
 java {
     sourceCompatibility = JavaVersion.VERSION_11
